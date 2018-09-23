@@ -1,0 +1,77 @@
+body{
+	margin: 0;
+	background:gray;
+	font-family:Batang;
+}
+a{
+	text-decoration: none;
+	color: white;
+	font-size: 16pt;
+	margin: 5px;
+	font-family:Microsoft Sans Serif;
+}
+#b{
+	text-decoration: underline;
+	color: black;
+	font-size: 12pt;
+	font-family:Batang;
+}
+#c{
+	text-decoration: underline;
+	color: white;
+	font-size: 16pt;
+	margin: 10px;
+	font-family:Microsoft Sans Serif;
+}
+#cookie{
+	height:100%;
+	background:#BFBFBF;
+	color: white;
+	font-size: 16pt;
+	font-family:Batang;
+}
+#ban{
+	border-top:1px black solid;
+	height:15%;
+	font-family:Microsoft Sans Serif;
+}
+#men{
+	border:1px black solid;
+	height:5%;
+	background:#BFBFBF;
+	color: white;
+	font-size: 16pt;
+	font-family:Microsoft Sans Serif;
+}
+#menu:hover{
+	color: yellow;
+	cursor: pointer;
+}
+#mbocz{
+	border:1px black solid;
+	width:15%;
+	background:#BFBFBF;
+	font-family:Microsoft Sans Serif;
+}
+#tex{
+	border:1px black solid;
+	height:75%;
+	background:#EFEFEF;
+	font-family:Batang;
+}
+#end{
+	height:5%;
+	background:gray;
+	border-bottom:1px black solid;
+	color: white;
+	font-size: 16pt;
+	font-family:Microsoft Sans Serif;
+}
+#texnag{
+	font-size: 16pt;
+	font-family:Batang;
+}
+#textex{
+	font-size: 13pt;
+	font-family:Batang;
+}

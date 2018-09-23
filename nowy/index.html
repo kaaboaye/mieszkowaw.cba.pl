@@ -1,0 +1,31 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<title>Stona w AJAX</title>
+	<link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+	<script type="text/javascript" src="http://jqueryjs.googlecode.com/files/jquery-1.2.6.min.js"></script>
+	<script type="text/javascript" src="menu.js"></script>
+</head>
+<body>
+	<div id="strona">
+		<div id="baner"> Strona numer 1 </div>
+		<div id="menu">
+			<ul id="ul_menu">
+				<li id="home">Start</li>
+				<li id="news">Aktualności</li>
+				<li id="gallery">Galeria</li>
+				<li id="contact">Kontakt</li>
+			</ul>
+			<span class="clear"></span>
+		</div>
+		<script>
+			$(function() {
+				$("#tresc").load("home.html"); 
+			});
+		</script>
+		<div id="tresc"></div>
+		<div id="stopka"><p>Prawa autorskie</p></div>
+	</div>
+</body>
+</html>

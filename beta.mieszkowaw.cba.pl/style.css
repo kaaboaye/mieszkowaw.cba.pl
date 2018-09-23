@@ -1,0 +1,100 @@
+html, body {
+	border: 0pt none;
+	font-family: inherit;
+	font-size: 100%;
+	font-style: inherit;
+	font-weight: inherit;
+	margin: 0pt;
+	padding: 0pt
+}
+body{
+	line-height: 14px;
+	font-size: 12px;
+	background: #000;
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	margin: 0pt;
+	cursor: default;
+}
+a{
+	cursor: pointer;
+	color: #296ba5;
+	text-decoration: none;
+}
+#b{
+	text-decoration: underline;
+	color: black;
+	font-size: 12pt;
+	font-family:Batang;
+}
+#c{
+	text-decoration: underline;
+	color: white;
+	font-size: 16pt;
+	margin: 10px;
+	font-family:Microsoft Sans Serif;
+}
+#d{
+	text-decoration: none;
+	color: white;
+	font-size: 16pt;
+	margin: 5px;
+	font-family:Microsoft Sans Serif;
+}
+#e{
+	text-decoration: none;
+	color: white;
+	font-size: 14pt;
+	margin: 5px;
+	font-family:Microsoft Sans Serif;
+}
+#cookie{
+	height:100%;
+	background:#BFBFBF;
+	color: white;
+	font-size: 16pt;
+	font-family:Batang;
+}
+#ban{
+	border: 0pt none;
+	background-image: url(baner.jpg);
+	color: white;
+	font-size: 30px;
+	padding: 0px;
+	height: 15%;
+	min-height: 75px;
+}
+#menu{
+	border: 1px black solid;
+	background: #ccc;
+}
+#mbocz{
+	padding: 0px;
+	margin: 0 auto;
+	font-size: 20px;
+	font-weight: 700;
+}
+#tex{
+	color: #000000;
+	margin: 0 0 0px 0;
+	line-height: 1.3em;
+	font-size: 11px;
+	padding:10px;
+	min-height: 250px;
+	background: #fff;
+}
+#end{
+	background: #efefef;
+	border-top: 1px solid #d0ccc9;
+	padding: 10px;
+	color: #7e7e7e;
+	font-size: 11px;
+	text-align: right;
+}
+#texnag{
+	font-size: 16pt;
+	font-family:Batang;
+}
+#textex{
+	font-size: 13pt;
+	font-family:Batang;
+}

@@ -1,0 +1,162 @@
+/*
+      Created by Keith Donegan of Code-Sucks.com
+	  
+	  E-Mail: Keithdonegan@gmail.com
+	  
+	  You can do whatever you want with these layouts,
+	  but it would be greatly appreciated if you gave a link
+	  back to http://www.code-sucks.com
+	  
+*/
+
+* { padding: 0; margin: 0; }
+
+body {
+ font-family: Trebuchet MS, Arial, Helvetica, sans-serif;
+ font-size: 13px;
+}
+#wrapper { 
+ margin: 0 auto;
+ width: 960px;
+}
+#header {
+ width: 960px;
+ color: #333;
+ padding: 0px;
+ border: 0px solid #ccc;
+ height: 50px;
+ margin: 0px 0px 0px 0px;
+ background: #1E90FF;
+}
+#content { 
+ width: 920px;
+ color: #333;
+ border: 0px solid #ccc;
+ background: #87CEFA;
+ margin: 0px 0px 0px 0px;
+ padding: 20px;
+ height: 500px;
+
+}
+#footer { 
+ width: 960px;
+ color: #333;
+ border: 0px solid #ccc;
+ background: #1E90FF;
+ margin: 0px 0px 0px 0px;
+ padding: 0px;
+height: 50px;
+}
+
+#stl a {
+background-image:url('stl.png');
+float:left;
+width: 30px;
+height: 30px;
+margin: 10px;
+
+}
+
+#spis {
+float:left;
+width: 80px;
+height: 30px;
+margin-left: 380px;
+margin-top: 15px;
+
+}
+
+#stp a {
+background-image:url('stp.png');
+float:right;
+width: 30px;
+height: 30px;
+margin-right: 10px;
+margin-top: 10px;
+
+}
+
+h1,h2,h3 {
+text-align: center; 
+}
+
+ol {
+margin: 70px;
+margin-left: 120px;
+font-size: 20px;
+line-height:200%
+}
+
+img.prymas {
+margin-top: 15px;
+margin-left: 304px;
+margin-bottom:10px;
+}
+
+
+img.prymaszmatka {
+margin-top: 15px;
+margin-left: 384px;
+margin-bottom:10px;
+}
+
+img.wysz {
+margin-top: 0px;
+margin-left: 410px;
+margin-right: 10px;
+margin-bottom: 10px;
+}
+
+img.biskup {
+float:left;
+margin-top: 0px;
+margin-left: 0px;
+margin-right: 20px;
+margin-bottom:10px;
+}
+
+img.upam {
+float:right;
+margin-top: 20px;
+margin-left: 20px;
+margin-right: 0px;
+margin-bottom:10px;
+}
+
+p {
+font-size: 16px;
+margin-top: 15px;
+margin-left: 70px;
+margin-right: 70px;
+margin-bottom: 10px;
+text-align: left;
+}
+
+p.center {
+font-size: 16px;
+margin-top: 0px;
+margin-bottom: 10px;
+text-align: center;
+}
+
+p.center1 {
+font-size: 16px;
+margin-top: 50px;
+margin-bottom: 10px;
+text-align: center;
+}
+
+p.center2 {
+font-size: 16px;
+margin-top: 25px;
+margin-bottom: 15px;
+text-align: center;
+}
+
+p. center3 {
+font-size: 16px;
+margin-top: 15px;
+margin-left: 0px;
+margin-right: 0px;
+margin-bottom: 0px;
+text-align: left;

@@ -1,0 +1,39 @@
+body{
+   margin: 0
+}
+a{
+   text-decoration: none;
+   color: white;
+   font-size: 16pt;
+   margin: 10px;
+}
+#ban{
+   border-top:1px black solid;
+   height:15%;
+   background:silver;
+}
+#men{
+   border:1px black solid;
+   height:5%;
+   background:#CFCFCF;
+}
+#mbocz{
+   border:1px black solid;
+   width:15%;
+   background:#CFCFCF;
+}
+#tex{
+   border:1px black solid;
+   height:74%;
+   background:#EFEFEF;
+}
+#end{
+   height:5%;
+   background:gray;
+}
+#texnag{
+   font-size: 15pt;
+}
+#textex{
+   font-size: 13pt;
+}
