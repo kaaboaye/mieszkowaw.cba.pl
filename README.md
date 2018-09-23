@@ -1,3 +1,3 @@
 # mieszkowaw.cba.pl
 
-This is old repo from primary shool and "gimnazjum" times
+This is an old repo from primary shool and "gimnazjum" times
